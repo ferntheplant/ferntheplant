@@ -4,5 +4,5 @@ I'm a big math and computer nerd especially interested in web technologies along
 
 
 - 🧠 Currently learning: Machine Learning (via [ARENA](https://github.com/callummcdougall/ARENA_3.0)) and Math (currently on [Measure Theory](https://measure.axler.net/))
-- 🔨 Currently working on: [Hobo](https://github.com/ferntheplant/hobo) - a better UX for tracking multi-connection commutes from Hoboken to NYC
+- 🔨 Currently working on: [PITP](https://github.com/ferntheplant/pitp) - an open-source, self-hosted party advertising system
 - 💬 Let's talk about: browsers, terminals, text editors, and everything about customizing your personal computer experience
